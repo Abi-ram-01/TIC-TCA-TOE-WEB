@@ -179,7 +179,7 @@ h1 {
 }
 
 .cell:hover {
-    background-color: rgb(244, 255, 235); /* Darken on hover */
+    background-color: rgb(81,70,99); /* Darken on hover */
     transform: translateY(-5px);
 }
 
@@ -304,4 +304,5 @@ h1 {
         box-shadow: none;
         color: var(--text-color);
     }
+
 }
